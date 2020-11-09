@@ -144,3 +144,113 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.boxes1 {
+
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2 {
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: gold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box3{
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: cadetblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box4{
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: coral;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box5{
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box6{
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: forestgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box7{
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: darkorchid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box8{
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: hotpink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box9{
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: indigo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box10{
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: dodgerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
